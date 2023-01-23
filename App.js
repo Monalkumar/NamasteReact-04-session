@@ -6,4 +6,4 @@ const container = React.createElement("div", {id:"container"} ,[heading, heading
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(container)
 
-import React from "react";
+
