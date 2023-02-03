@@ -73,8 +73,7 @@
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
     "jsonfile": "^4.0.0",
-    "lightningcss": "^1.18.0",
-    "lightningcss-win32-x64-msvc": "^1.18.0",
+   
     "lines-and-columns": "^1.2.4",
     "lmdb": "^2.5.2",
     "locate-path": "^5.0.0",
