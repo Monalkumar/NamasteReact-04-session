@@ -147,7 +147,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+     "start": "npx parcel index.html"
   },
   "repository": {
     "type": "git",
