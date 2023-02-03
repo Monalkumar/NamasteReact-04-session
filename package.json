@@ -148,7 +148,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-     "start": "npx parcel index.html"
+     "start": "npx parcel index.html",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
